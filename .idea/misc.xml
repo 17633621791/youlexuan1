@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-parent/youlexuan-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-service" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/youlexuan-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-parent/youlexuan-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-common/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-parent/youlexuan-sellergoods-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://C:/" />
+  </component>
+</project>
